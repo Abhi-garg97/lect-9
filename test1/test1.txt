@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
 ######### ERROR #########
     Fixed it
-=======
 Feature 1
 //some login code with otp
 // 100 %
@@ -9,7 +7,6 @@ Feature 1
 
 Ooty
 Shimla
-Bengaluru 
-Welcome
-Pankaj sir academy
-java with full stack
+
+################ Latest Changes #################
+
